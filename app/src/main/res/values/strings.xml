@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BasketballSensor</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="st">start</string>
+    <string name="ps">pause</string>
+    <string name="X_val">dist</string>
+    <string name="Y_val">elevation</string>
+    <string name="Z_val">spin</string>
+    <string name="title_activity_bball">BBall</string>
+    <string name="title_activity_basket_miss">BasketMiss</string>
+</resources>
